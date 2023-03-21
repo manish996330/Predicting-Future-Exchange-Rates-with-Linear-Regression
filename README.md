@@ -22,8 +22,8 @@ Open the Jupyter Notebook file stock_prices.ipynb.
 Run the code cells in the notebook to analyze the stock prices.
 
 ## Authors
-Manish Kumar. M
-Dasaradhi. P
+Manish Kumar. M, 
+Dasaradhi. P, 
 Sumanth. D
 
 ## License
