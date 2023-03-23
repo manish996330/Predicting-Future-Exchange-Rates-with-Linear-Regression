@@ -1,4 +1,4 @@
-# Predicting Future Exchange Rates using Linear Refression
+# Predicting Future Exchange Rates using Linear Regression
 
 This project is about analyzing and predicting stock prices using machine learning and linear regression model.
 
